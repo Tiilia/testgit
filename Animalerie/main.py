@@ -15,3 +15,11 @@ chien1: Chien = Chien("Bethoveen", 15, 80, "M", date(
 print(chien1)
 
 
+""" 
+# liste: list[Animal] = []
+animalerie: Animalerie = Animalerie([chat1, chien1])
+chat2: Chat = ""
+chat2 = Animalerie.create_animal()
+animalerie.add_animal(chat2)
+# print(f"animalerie: {animalerie}")
+ """
